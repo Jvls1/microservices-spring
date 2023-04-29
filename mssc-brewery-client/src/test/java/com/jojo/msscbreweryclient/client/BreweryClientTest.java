@@ -1,5 +1,6 @@
 package com.jojo.msscbreweryclient.client;
 
+import com.jojo.msscbreweryclient.web.client.BreweryClient;
 import com.jojo.msscbreweryclient.web.model.BeerDto;
 import com.jojo.msscbreweryclient.web.model.CustomerDto;
 import org.junit.jupiter.api.Test;

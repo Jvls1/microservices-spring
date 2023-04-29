@@ -1,4 +1,4 @@
-package com.jojo.msscbreweryclient.client;
+package com.jojo.msscbreweryclient.web.client;
 
 import com.jojo.msscbreweryclient.web.model.BeerDto;
 import com.jojo.msscbreweryclient.web.model.CustomerDto;
