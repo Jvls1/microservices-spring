@@ -31,5 +31,5 @@ public class BeerDto {
 
     private OffsetDateTime dateCreated;
 
-    private OffsetDateTime dateUpdate;
+    private OffsetDateTime dateUpdated;
 }
