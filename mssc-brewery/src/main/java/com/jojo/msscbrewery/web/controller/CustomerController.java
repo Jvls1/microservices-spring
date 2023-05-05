@@ -1,18 +1,13 @@
 package com.jojo.msscbrewery.web.controller;
 
-import com.jojo.msscbrewery.services.BeerService;
-import com.jojo.msscbrewery.web.model.BeerDto;
 import com.jojo.msscbrewery.services.CustomerService;
 import com.jojo.msscbrewery.web.model.CustomerDto;
-import jakarta.validation.ConstraintViolationException;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.UUID;
 
 @RequestMapping("/api/v1/customer")
