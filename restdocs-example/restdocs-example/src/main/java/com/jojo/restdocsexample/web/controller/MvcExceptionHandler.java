@@ -9,9 +9,6 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by jt on 2019-05-25.
- */
 @ControllerAdvice
 public class MvcExceptionHandler {
 

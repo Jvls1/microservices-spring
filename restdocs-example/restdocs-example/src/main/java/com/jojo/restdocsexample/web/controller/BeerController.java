@@ -11,9 +11,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.UUID;
 
-/**
- * Created by jt on 2019-05-12.
- */
 @RequiredArgsConstructor
 @RequestMapping("/api/v1/beer")
 @RestController
