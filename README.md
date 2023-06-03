@@ -1,8 +1,10 @@
-# microservices-spring
+# Microservices With Spring
 Spring Boot Microservices course
 
-Repository with all the sections of the Microservices course.
+Repository with the first sections of the Microservices Course.
 
-I'm only using one repository for all the project just to organization purpose.
+Until this part of the course I review some concepts that I alredy knew, and learn some new featues and tips that the instructor give to us.
 
-On this course I learn concepts like Clean Architecture, Microservices, Unit test and how to document an Rest API
+## Reference
+
+ - [Spring Boot Microservices with Spring Cloud Beginner to Guru](https://www.udemy.com/course/spring-boot-microservices-with-spring-cloud-beginner-to-guru/)
